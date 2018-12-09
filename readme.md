@@ -20,8 +20,7 @@ Vue + Vuex + Vue-Router + Vue-cli + better-scroll + Axios + SCSS + vue-lazyload
 
 API接口用的是[NeteaseCloudMusicApi](https://binaryify.github.io/NeteaseCloudMusicApi/#/?id=neteasecloudmusicapi)
 
-效果图：![](https://s1.ax1x.com/2018/12/09/F8Rx76.gif)
-
+效果图：![](https://s1.ax1x.com/2018/12/09/F8WWCD.gif
 
 
 
